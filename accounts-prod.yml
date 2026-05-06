@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Gaurav S - Developer"
-    email: "493833bcb070591c65c5dc4a45a2394051351f8b1cbd60084b7164f5a72ea23297051df8d1815eb5a85791ce46938e2e"
+    email: "{cipher}493833bcb070591c65c5dc4a45a2394051351f8b1cbd60084b7164f5a72ea23297051df8d1815eb5a85791ce46938e2e"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
