@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Test APIs"
+  message: "Welcome to EazyBank accounts related QA Test APIs"
   contactDetails:
     name: "QA Lead"
     email: "qalead@eazybank.com"
